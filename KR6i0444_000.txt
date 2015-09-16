@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說因緣僧護經
+#+DATE: 2015-08-30 20:19:45.487525
+#+PROPERTY: JUAN 0
